@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 About Me
-```yaml
+[```yaml
 Name: Aditya Rana
 Role: Software Developer
 Focus:
@@ -30,7 +30,7 @@ Focus:
 Mindset:
   - Clean logic > fancy code
   - Build → Break → Learn → Scale
-
+]
 ---
 
 ## 🚀 About Me
