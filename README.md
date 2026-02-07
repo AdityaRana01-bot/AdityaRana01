@@ -35,14 +35,7 @@ Mindset:
 
 ---
 
-## 🐍 IMPORTANT: Enable Snake Animation (1-time setup)
-
-1. Go to **Actions** tab in your profile repo
-2. Create a new workflow
-3. Paste this file as  
-   `.github/workflows/snake.yml`
-
-```yaml
+[
 name: Generate Snake
 
 on:
@@ -65,7 +58,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+]
 ## 🚀 About Me
 - 💻 Software Developer passionate about **AI, Machine Learning & backend systems**
 - 🧠 Love building **intelligent, data-driven applications**
