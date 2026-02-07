@@ -7,6 +7,29 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaRana&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Aditya+Rana;Software+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Smart+Tech+with+Code" />
+</p>
+
+<!-- Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750939-1c4d94e2-7a0c-4a9a-bb67-02a5c90b3f8d.gif" width="600">
+</p>
+
+---
+
+## 🚀 About Me
+```yaml
+Name: Aditya Rana
+Role: Software Developer
+Focus:
+  - Artificial Intelligence
+  - Machine Learning
+  - Backend & Automation
+Mindset:
+  - Clean logic > fancy code
+  - Build → Break → Learn → Scale
 
 ---
 
