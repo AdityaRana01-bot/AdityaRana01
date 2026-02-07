@@ -12,10 +12,11 @@ const Aditya = {
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React", "Angular"],
-            css: ["bootstrap", "sass"]
+            HTML:
+            js: 
+            css: 
         },
-        backEnd: ["Java", "PHP"],
+        backEnd: ["Java", "Python"],
         databases: ["MySql", "oracle"],
     }
 };
