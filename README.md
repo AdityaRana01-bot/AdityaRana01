@@ -102,5 +102,5 @@ Mindset:
 - 🌱 Portfolio: *Coming soon*
 
 ---
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AdityaRana&label=Profile+Views&color=0ea5e9&style=flat" /> </p>
 ⭐ **If you like my work, consider starring the repos!**
