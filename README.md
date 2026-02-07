@@ -1,6 +1,6 @@
 # AdityaRana01 😎😎
 ![Uploading MuaKissGIF.gif…]()
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+![head.png](https://raw.githubusercontent.com/iAditya/FigureBed/master/img/readme-top.png)
 
 Hi there, thanks for stopping by, this is **Aditya Rana**.
 
