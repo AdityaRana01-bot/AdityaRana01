@@ -7,7 +7,7 @@ Hi there, thanks for stopping by, this is **Aditya Rana**.
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 ```javascript
-const charles = {
+const Aditya = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "game"],
     technologies: {
@@ -34,7 +34,7 @@ const charles = {
 
 ---
 
-⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/aditya-rana-66373b353/)<br> [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] ( https://x.com/AdityaR90243060 ) <br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] (ranaadi745@gmail.com) 
