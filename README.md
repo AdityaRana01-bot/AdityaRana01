@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Rana</h1>
 <h3 align="center">Software Developer | AI & ML Enthusiast | Tech Explorer</h3>
-
+![MuaKissGIF](https://github.com/user-attachments/assets/bb6f55f6-bf0b-4866-b0b4-6e2bedfead3c)
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 <p align="center">
