@@ -102,6 +102,8 @@ Mindset:
 - 🌱 Portfolio: *Coming soon*
 
 ---
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaRana01/AdityaRana01/output/github-contribution-grid-snake.svg" />
+</p>
 
 ⭐ **If you like my work, consider starring the repos!**
