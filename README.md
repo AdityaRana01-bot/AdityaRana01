@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Rana</h1>
 <h3 align="center">Software Developer | AI & ML Enthusiast | Tech Explorer</h3>
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaRana&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
