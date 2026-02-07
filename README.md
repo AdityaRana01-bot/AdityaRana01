@@ -1,5 +1,6 @@
 # AdityaRana01 😎😎
-![Uploading MuaKissGIF.gif…]()
+![CheeringCuteGIF](https://github.com/user-attachments/assets/1c8e265e-ca06-40b9-b5cf-b014eaf64190)
+
 
 
 Hi there, thanks for stopping by, this is **Aditya Rana**.
