@@ -68,8 +68,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: *Add your link*
-- 📧 Email: *Add your email*
+- 💼 LinkedIn: *https://www.linkedin.com/in/aditya-rana-66373b353/*
+- 📧 Email: *ranaadi745@gmail.com*
 - 🌱 Portfolio: *Coming soon*
 
 ---
