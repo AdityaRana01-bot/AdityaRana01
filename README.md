@@ -1,4 +1,8 @@
 # AdityaRana01 😎😎
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
 ![MuaKissGIF](https://github.com/user-attachments/assets/bb6f55f6-bf0b-4866-b0b4-6e2bedfead3c)
 
 
