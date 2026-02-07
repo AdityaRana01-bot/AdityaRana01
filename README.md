@@ -1,58 +1,77 @@
-### 👋 Hi, I'm Aditya Rana
-
-💻 Software Developer  
-🤖 AI & Machine Learning Enthusiast  
-🚀 Passionate about building smart, scalable tech
+<h1 align="center">Hi 👋, I'm Aditya Rana</h1>
+<h3 align="center">Software Developer | AI & ML Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://komarev.com/ghpvc/?username=AdityaRana&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-![MuaKissGIF](https://github.com/user-attachments/assets/bb6f55f6-bf0b-4866-b0b4-6e2bedfead3c)
+---
 
-
-
-
-Hi there, thanks for stopping by, this is **Aditya Rana**.
-
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
-```javascript
-const Aditya = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
-    technologies: {
-        frontEnd: {
-            HTML:
-            js: 
-            css: 
-        },
-        backEnd: ["Java", "Python"],
-        databases: ["MySql", "oracle"],
-    }
-};
-```
-
-
-
-
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/aditya-rana-66373b353/)<br> [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)] ( https://x.com/AdityaR90243060 ) <br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)] (ranaadi745@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaRana01-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdityaRana01-bot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaRana01-bot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdityaRana01-bot&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 About Me
+- 💻 Software Developer passionate about **AI, Machine Learning & backend systems**
+- 🧠 Love building **intelligent, data-driven applications**
+- 🔍 Curious about **system design, automation, and scalable tech**
+- 🌱 Currently sharpening skills in **Python, ML models & real-world AI use cases**
+- ⚡ Fun fact: I prefer **clean logic over fancy code**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdityaRana01-bot&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+- 🔮 **AI-Powered Inventory Management System**  
+  Predicts demand, prevents overstock/understock, expiry alerts via email
+
+- 🧠 **Machine Learning Mini Projects**  
+  Regression, classification & real-world data experiments
+
+- ⚙️ **Automation & Backend Utilities**  
+  Scripts that save time and reduce manual work
+
+> More projects coming soon — building in public 🚧
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaRana&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaRana&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: *Add your link*
+- 📧 Email: *Add your email*
+- 🌱 Portfolio: *Coming soon*
+
+---
+
+⭐ **If you like my work, consider starring the repos!**
