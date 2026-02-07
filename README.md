@@ -1,4 +1,9 @@
-# AdityaRana01 😎😎
+### 👋 Hi, I'm Aditya Rana
+
+💻 Software Developer  
+🤖 AI & Machine Learning Enthusiast  
+🚀 Passionate about building smart, scalable tech
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
